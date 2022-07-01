@@ -10,11 +10,4 @@ Similar to MNIST dataset, Ekush is a Bangla handwritten characters dataset. It c
 - To improve accuracy of bangla digit classification.
 
 ### Reference
-@inproceedings{rabby2018ekush,
-  title={Ekush: A multipurpose and multitype comprehensive database for online off-line bangla handwritten characters},
-  author={Rabby, AKM and Haque, Sadeka and Islam, Md and Abujar, Sheikh and Hossain, Syed Akhter and others},
-  booktitle={International conference on recent trends in image processing and pattern recognition},
-  pages={149--158},
-  year={2018},
-  organization={Springer}
-}
+[1] Rabby, A. K. M., et al. "Ekush: A multipurpose and multitype comprehensive database for online off-line bangla handwritten characters." International conference on recent trends in image processing and pattern recognition. Springer, Singapore, 2018.
